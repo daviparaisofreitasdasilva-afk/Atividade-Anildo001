@@ -1,0 +1,22 @@
+{
+  "name": "atividade-anildo001",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    " dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daviparaisofreitasdasilva-afk/Atividade-Anildo001.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/daviparaisofreitasdasilva-afk/Atividade-Anildo001/issues"
+  },
+  "homepage": "https://github.com/daviparaisofreitasdasilva-afk/Atividade-Anildo001#readme"
+}
